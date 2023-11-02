@@ -11,7 +11,7 @@
  To start the server locally use 'python manage.py runserver' command in the root directory. All the apis endpoint can be tested with Postman.
 
  <h2>Deployed link:</h2>
- https://shareaid.vercel.app/
+ https://project-madad.vercel.app/
 
   <h2>Frontend repo: </h2>
 https://github.com/Manan-Bhatia/Donation-App-Frontend
